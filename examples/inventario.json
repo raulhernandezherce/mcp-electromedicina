@@ -1,0 +1,7 @@
+[
+  {"id": "MON-014", "equipo": "Monitor multiparamétrico", "ubicacion": "UCI · box 3", "ultimo_preventivo": "2025-12-10", "periodicidad_meses": 12},
+  {"id": "DEF-002", "equipo": "Desfibrilador bifásico", "ubicacion": "Urgencias", "ultimo_preventivo": "2026-06-01", "periodicidad_meses": 6},
+  {"id": "BIN-031", "equipo": "Bomba de infusión volumétrica", "ubicacion": "Planta 4", "ultimo_preventivo": "2026-01-15", "periodicidad_meses": 12},
+  {"id": "ESU-005", "equipo": "Electrobisturí", "ubicacion": "Quirófano 2", "ultimo_preventivo": "2026-10-20", "periodicidad_meses": 12},
+  {"id": "ECG-009", "equipo": "Electrocardiógrafo de 12 derivaciones", "ubicacion": "Cardiología", "ultimo_preventivo": "2025-11-02", "periodicidad_meses": 12}
+]
